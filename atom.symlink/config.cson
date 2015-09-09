@@ -1,7 +1,7 @@
 "*":
   editor:
     invisibles: {}
-    fontSize: 16
+    fontSize: 15
     softWrapAtPreferredLineLength: true
     preferredLineLength: 120
     fontFamily: "Roboto Mono"
