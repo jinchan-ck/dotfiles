@@ -1,11 +1,11 @@
 "*":
   editor:
-    showIndentGuide: true
-    fontFamily: "Menlo"
     invisibles: {}
     fontSize: 16
     softWrapAtPreferredLineLength: true
     preferredLineLength: 120
+    fontFamily: "Roboto Mono"
+    showIndentGuide: true
   core:
     ignoredNames: [
       ".bundle"
@@ -16,8 +16,8 @@
       "vendor"
     ]
     themes: [
-      "seti-ui"
-      "atom-dark-syntax"
+      "atom-material-ui"
+      "atom-material-syntax"
     ]
     hideGitIgnoredFiles: true
     disabledPackages: [
@@ -36,3 +36,4 @@
   "release-notes":
     viewedVersion: "0.89.0"
   linter: {}
+  "asciidoc-preview": {}
